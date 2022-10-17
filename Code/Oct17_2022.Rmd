@@ -19,5 +19,7 @@ View(cars) #cars is a built in dataset
 ```
 
 
+```{r}
+gitcreds::gitcreds_set()
+```
 
-Changing
