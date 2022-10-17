@@ -13,5 +13,8 @@ library(dplyr)
 
 Ready for action!
 
-
+Now look at some built in data
+```{r}
+View(cars) #cars is a built in dataset 
+```
 
